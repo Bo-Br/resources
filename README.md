@@ -38,10 +38,8 @@ We use **Lucide Icons**. You can find all available icon names at [lucide.dev](h
 
 ## 🌍 How to Deploy
 
-### Option 1: AI Studio (Quick Share)
-Click the **Share** button in the top right of the Google AI Studio interface to get a public link instantly.
 
-### Option 2: Netlify / Vercel (Manual)
+### Netlify / Vercel (Manual)
 1. Export the code as a ZIP from the Settings menu.
 2. Run `npm install` and `npm run build`.
 3. Drag the `dist` folder to Netlify or push the code to a GitHub repo and connect it to Vercel/Netlify.
